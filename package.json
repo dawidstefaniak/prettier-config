@@ -4,5 +4,6 @@
   "description": "My personal Prettier config",
   "main": "index.json",
   "author": "Dawid Stefaniak <contact@dawidstefaniak.com>",
+  "repository": "git@github.com:dawidstefaniak/prettier-config.git",
   "license": "MIT"
 }
