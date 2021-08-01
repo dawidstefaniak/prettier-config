@@ -5,5 +5,5 @@
     "arrowParens": "avoid",
     "vueIndentScriptAndStyle": false,
     "endOfLine": "lf",
-    "tabWidth": 4,
+    "tabWidth": 4
 }
